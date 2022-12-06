@@ -6,6 +6,6 @@ public class Main {
         SmartPhone samsung = new SmartPhone.SmartPhoneBuilder("Samsung", "S20 Galaxy").build();
 
         System.out.println(iPhone.getName() + iPhone.getModelName() + " " + iPhone.getColor());
-        System.out.println(samsung.getName() + " " + samsung.getModelName());
+        System.out.println(samsung.getName() + " " + samsung.getModelName());//5555
     }
 }
